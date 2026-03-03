@@ -8,14 +8,14 @@ export const CHAIN = {
 } as const;
 
 export const GNARS_ADDRESSES = {
-  token: "0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17",
-  auction: "0x494eaa55ecf6310658b8fc004b0888dcb698097f",
+  token: "0x20de6ee2d52a9d34266ec84c4fd9e72f62521602",
+  auction: "0x049e198e1635edc422ac48b67c2964ba7862d000",
   // Hacker Dao Governor
   // governor: "0x7c4c33efe412f06f83278acafc16b435be904b03",
   // Gnars Governor  
-  governor: "0x3dd4e53a232b7b715c9ae455f4e732465ed71b4c",
-  treasury: "0x72ad986ebac0246d2b3c565ab2a1ce3a14ce6f88",
-  metadata: "0xdc9799d424ebfdcf5310f3bad3ddcce3931d4b58",
+  governor: "0x94ca858d59662c5b597924e065b254a1fb2b37fc",
+  treasury: "0xdfeccaca6d5cdf9ec04894c3a848905019f25b58",
+  metadata: "0x2dc56a5de6dab5cf0700fd7e51dfff0d53b58535",
   gnarsErc20: "0x0cf0c3b75d522290d7d12c74d7f1f0cc47ccb23b", // $GNARS ERC20 token
   lootbox: "0xc934804520ccc172909a093bae5bb07188e77cb2", // Gnars Lootbox V4
   lootboxTestNft: "0x6940100c44d214cd1570b394a1c42949c3eb820d", // HackerDAO Test NFT
